@@ -27,6 +27,9 @@ Sooper Mortgage sells mortgage loans to investors in the secondary market. To ma
 4. Total trade premium (profit) on profitable loans: $8.3M+ 
 5. FICO score is a strong price driver → higher FICO → higher price.
 
+![Image Alt](
+
+
 ## Business Recommendations:
 
 1. The company must Sell to Storgan_Manley as the primary counterparty based on pricing strength. 
